@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
 <p align="center"> Hi, I'm Nicole! Currently looking for a ✨<strong>Data Analyst </strong>✨position!</p>
+<p align="center"> I just graduated from Le Wagon's Data Science Bootcamp. I majored in Law and found my passion for tech a few years later, the main reason for me to change careers is to have a job that allows me to move around the world and specially that has a fast passe and evolving work eviornment. I am seeking a position that will allow me to enter the industry and get hands on experience on a technology company. </p>
 <div align="center">
     <a href="https://www.linkedin.com/in/nicolecdressler/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 </div>
@@ -24,6 +25,7 @@
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
