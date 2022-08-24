@@ -9,7 +9,7 @@
 ##
 <div align="center">
 <ul>
-  <p> <a href="nicole-c-dressler.webflow.io" target="_blank"> MY PORTFOLIO </a> </p>
+  <p> <a href="https://nicole-c-dressler.webflow.io/" target="_blank"> ✨ My Website & Portfolio ✨ </a> </p>
   <p> 🌱 Python and Machine Learning <img align="center" alt="Nicole-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></p> 
   <p> 🔭 Working on an analystics project on Formula 1 using SQL and Tableau! </p>
   <p> 📫 How to reach me: <a href="mailto:nicole.c.dressler@gmail.com" target="_blank"> nicole.c.dressler@gmail.com </a></p>
