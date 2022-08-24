@@ -10,7 +10,7 @@
 <div align="center">
 <ul>
   <p> 🌱 Python and Machine Learning <img align="center" alt="Nicole-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></p> 
-  <p> 🔭 Working on a crypto prediction project! </p>
+  <p> 🔭 Working on an analystics project on Formula 1 using SQL and Tableau! </p>
   <p> 📫 How to reach me: <a href="mailto:nicole.c.dressler@gmail.com" target="_blank"> nicole.c.dressler@gmail.com </a></p>
   <p> 😄 Pronouns: she/her </p>
   
