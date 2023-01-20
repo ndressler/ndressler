@@ -39,10 +39,3 @@
   <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
   
 </div>
-
-##
-<div align="center">
-  <a href="https://github.com/ndressler">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndressler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndressler&layout=compact&langs_count=7&theme=dracula"/>
-</div>
