@@ -1,7 +1,18 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
 <p align="center"> Hi, I'm Nicole! Currently looking for a ✨<strong>Data Analyst </strong>✨position!</p>
-<p align="center"> I just graduated from Le Wagon's Data Science Bootcamp and completed the Google Data Analytics Professional Certificate. I majored in Law and only found my passion for tech and data a few years later, the main reason for me to change careers is to have a job that allows me to move around the world and specially that has a fast pace and evolving work eviornment. I am seeking a position that will allow me to enter the industry and get hands on experience on a technology company. </p>
+<p align="center"> Welcome to my GitHub profile! I am a data analyst with 4 years of experience in project management. I have a strong background in data analysis, data visualization, and project management.
+
+Some of my key skills include:
+
+- Proficient in using data analysis tools such as R, Python, and Excel
+- Strong understanding of statistical concepts and data modeling techniques
+- Experience in data visualization using tools such as Tableau and Power BI
+- Strong project management skills, including experience leading cross-functional teams and managing project timelines and budgets
+
+I am always looking for new and interesting projects to work on, so feel free to reach out if you have a project that could benefit from my skills and experience. You can also find some of my previous work and projects on my website below.
+
+Thank you for visiting my profile! </p>
 <div align="center">
     <a href="https://www.linkedin.com/in/nicolecdressler/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 </div>
