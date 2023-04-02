@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
 <p align="center"> Hi, I'm Nicole! Currently looking for a ✨<strong>Data Analyst </strong>✨position!</p>
-<p align="center"> Welcome to my GitHub profile! I am a data analyst with 4 years of experience in project management. I have a strong background in data analysis, data visualization, and project management.
+<p align="center"> Welcome to my GitHub profile! I am an experienced Data Analyst with 4 years of operations management expertise. Proficient in data analysis,  visualization and business development tools with proven track record of successfully leading cross-functional teams and optimizing processes and improving business
+performance through data-driven decisions.
 
 Some of my key skills include:
 
@@ -22,7 +23,7 @@ Thank you for visiting my profile! </p>
 <ul>
   <p> <a href="https://nicole-c-dressler.webflow.io/" target="_blank"> ✨ My Website & Portfolio ✨ </a> </p>
   <p> 🌱 Python and Data Analystics <img align="center" alt="Nicole-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></p> 
-  <p> 🔭 Working on an analystics project on Formula 1 using SQL and Tableau! </p>
+  <p> 🔭 Working on an Machine Learning Project on stock! </p>
   <p> 📫 How to reach me: <a href="mailto:nicole.c.dressler@gmail.com" target="_blank"> nicole.c.dressler@gmail.com </a></p>
   <p> 😄 Pronouns: she/her </p>
   
