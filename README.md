@@ -1,19 +1,17 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
-<p align="center"> Hi, I'm Nicole! Currently looking for a ✨<strong>Data Analyst </strong>✨position!</p>
-<p align="center"> Welcome to my GitHub profile! I am an experienced Data Analyst with 4 years of operations management expertise. Proficient in data analysis,  visualization and business development tools with proven track record of successfully leading cross-functional teams and optimizing processes and improving business
-performance through data-driven decisions.
+<p align="center"> Hi, I'm Nicole! Currently looking for a ✨<strong>Data Scientist </strong>✨position!</p>
+<p align="center"> Welcome to my GitHub profile! I am an experienced Data Analyst with 4 years of operations management expertise and currently taking a M.Sc in Computer and Data Science. Proficient in data analysis,  visualization and business development tools with proven track record of successfully leading cross-functional teams and optimizing processes and improving business performance through data-driven decisions.
 
 Some of my key skills include:
 
-- Proficient in using data analysis tools such as R, Python, and Excel
-- Strong understanding of statistical concepts and data modeling techniques
-- Experience in data visualization using tools such as Tableau and Power BI
+- Proficient in Python and SQL
+- Strong understanding of Machine Learning and Deep Learning networks and models
+- Experience in data analysis using tools such as Tableau and Spreadsheets
 - Strong project management skills, including experience leading cross-functional teams and managing project timelines and budgets
+<br>
 
-I am always looking for new and interesting projects to work on, so feel free to reach out if you have a project that could benefit from my skills and experience. You can also find some of my previous work and projects on my website below.
-
-Thank you for visiting my profile! </p>
+<p align="center">I am always looking for new and interesting projects to work on, so feel free to reach out if you have a project that could benefit from my skills and experience.</p>
 <div align="center">
     <a href="https://www.linkedin.com/in/nicolecdressler/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 </div>
@@ -21,9 +19,9 @@ Thank you for visiting my profile! </p>
 ##
 <div align="center">
 <ul>
-  <p> <a href="https://nicole-c-dressler.webflow.io/" target="_blank"> ✨ My Website & Portfolio ✨ </a> </p>
-  <p> 🌱 Python and Data Analystics <img align="center" alt="Nicole-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></p> 
-  <p> 🔭 Working on an Machine Learning Project on stock! </p>
+  <p> <a href="https://github.com/ndressler/Data_Science_Portfolio" target="_blank"> ✨ My Portfolio ✨ </a> </p>
+  <p> 🌱 Projects on Data Science covering Python, SQL, Spreadsheet, Tableau and Machine Learning </p>
+  <p> 🔭 Working on an Machine Learning Project! </p>
   <p> 📫 How to reach me: <a href="mailto:nicole.c.dressler@gmail.com" target="_blank"> nicole.c.dressler@gmail.com </a></p>
   <p> 😄 Pronouns: she/her </p>
   
