@@ -1,7 +1,9 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
 <p align="center"> Hi, I'm Nicole! Currently looking for a ✨<strong>Data Scientist </strong>✨position!</p>
-<p align="center"> Welcome to my GitHub profile! I am an experienced Data Analyst with 4 years of operations management expertise and currently taking a M.Sc in Computer and Data Science. Proficient in data analysis,  visualization and business development tools with proven track record of successfully leading cross-functional teams and optimizing processes and improving business performance through data-driven decisions.
+<p align="center"> Welcome to my GitHub profile!Hi, I'm Nicole! I'm currently pursuing a M.Sc. in Computer Science and Data Science. I'm excited to apply my knowledge and skills to an opportunity that will allow me to gain experience in the field of data science.			
+			
+			
 
 Some of my key skills include:
 
@@ -20,8 +22,8 @@ Some of my key skills include:
 <div align="center">
 <ul>
   <p> <a href="https://github.com/ndressler/Data_Science_Portfolio" target="_blank"> ✨ My Portfolio ✨ </a> </p>
-  <p> 🌱 Projects on Data Science covering Python, SQL, Spreadsheet, Tableau and Machine Learning </p>
-  <p> 🔭 Working on an Machine Learning Project! </p>
+  <p> 🌱 Projects on Data Science covering Python, SQL, and Machine Learning </p>
+  <p> 🔭 Working on my Thesis Project: Enhancing Financial Fraud Detection through Ensemble Anomaly Detection and Explainable AI! </p>
   <p> 📫 How to reach me: <a href="mailto:nicole.c.dressler@gmail.com" target="_blank"> nicole.c.dressler@gmail.com </a></p>
   <p> 😄 Pronouns: she/her </p>
   
