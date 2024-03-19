@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
 <p align="center"> Hi, I'm Nicole! Currently looking for a ✨<strong>Data Scientist </strong>✨position!</p>
-<p align="center"> Welcome to my GitHub profile!Hi, I'm Nicole! I'm currently pursuing a M.Sc. in Computer Science and Data Science. I'm excited to apply my knowledge and skills to an opportunity that will allow me to gain experience in the field of data science.			
+<p align="center"> Welcome to my GitHub profile! I'm currently pursuing a M.Sc. in Computer Science and Data Science. I'm excited to apply my knowledge and skills to an opportunity that will allow me to gain experience in the field of data science.			
 			
 			
 
@@ -9,7 +9,7 @@ Some of my key skills include:
 
 - Proficient in Python and SQL
 - Strong understanding of Machine Learning and Deep Learning networks and models
-- Experience in data analysis using tools such as Tableau and Spreadsheets
+- Experience in data analysis using tools such as Tableau, PowerBI and Spreadsheets
 - Strong project management skills, including experience leading cross-functional teams and managing project timelines and budgets
 <br>
 
@@ -28,26 +28,4 @@ Some of my key skills include:
   <p> 😄 Pronouns: she/her </p>
   
 </ul> 
-</div>
-
-##
-<h4 align="center">⚡ Skills:</h4>
-<div style="display: flex; justify-content: space-between">
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">  
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">    
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">  
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
-  
 </div>
