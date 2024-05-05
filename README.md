@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
 <p align="center"> Welcome to my GitHub profile, I'm Nicole and I'm a <strong>🌱 Data Scientist </strong></p>
-<p align="center"> I'm currently pursuing a ✨<strong>M.Sc. in Computer Science and Data Science</strong>✨. I'm excited to apply my knowledge and skills to an opportunity that will allow me to gain experience in the field of data science.			
+<p align="center"> I'm currently pursuing a ✨<strong>M.Sc. in Computer Science and Data Science</strong>✨, you can check out my thesis project on Ensemble Anomaly Detection for Financial Fraud and XAI <a href="https://github.com/ndressler/Financial_Fraud_Detection" target="_blank"> here </a>. I'm excited to apply my knowledge and skills to an opportunity that will allow me to gain experience in the field of data science.			
 			
 			
 
@@ -22,7 +22,6 @@ Some of my key skills include:
 <div align="center">
 <ul>
   <p> <a href="https://github.com/ndressler/Data_Science_Portfolio" target="_blank"> ✨ My Portfolio ✨ </a> </p>
-  <p> 🔭 Working on my Thesis Project: <strong>Enhancing Financial Fraud Detection through Ensemble Anomaly Detection and Explainable AI</strong> </p>
   <p> 🌱 Projects on Data Science covering Python, SQL, and Machine Learning </p>
   <p> 📫 How to reach me: <a href="mailto:nicole.c.dressler@gmail.com" target="_blank"> nicole.c.dressler@gmail.com </a></p>
   <p> 😄 Pronouns: she/her </p>
