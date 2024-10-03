@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
 <p align="center"> Welcome to my GitHub profile, I'm Nicole and I'm a <strong>🌱 Data Scientist </strong></p>
-<p align="center"> I'm currently pursuing a ✨<strong>M.Sc. in Computer Science and Data Science</strong>✨, you can check out my thesis project on Ensemble Anomaly Detection for Financial Fraud and XAI <a href="https://github.com/ndressler/Financial_Fraud_Detection" target="_blank"> here </a>. I'm excited to apply my knowledge and skills to an opportunity that will allow me to gain experience in the field of data science.			
-			
-			
 
+<p align="center"> I recently graduated with distinction, holding a ✨<strong>M.Sc. in Computer Science and Data Science</strong>✨. You can check out my thesis project on Ensemble Anomaly Detection for Financial Fraud and XAI <a href="https://github.com/ndressler/Financial_Fraud_Detection" target="_blank"> here </a>. I'm eager to apply my knowledge and skills to opportunities that will allow me to gain experience in the field of data science.</p>	
+			
+			
 Some of my key skills include:
 
 - Proficient in Python and SQL
